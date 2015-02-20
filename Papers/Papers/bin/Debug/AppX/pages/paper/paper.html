@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>paper</title>
+
+    <link href="paper.css" rel="stylesheet" />
+    <script src="paper.js"></script>
+    <script src="/js/request.js"></script>
+    <script src="/js/jquery-2.1.3.min.js"></script>
+</head>
+<body>
+    <div class="paper fragment">
+        <header class="page-header" aria-label="Header content" role="banner">
+            <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Paper</span>
+            </h1>
+        </header>
+        <section class="page-section" aria-label="Main content" role="main">
+            <div id="Panes">
+                <div id="LeftPane">
+                    <div id="Display">
+
+                    </div>
+                    <textarea id="TextArea" rows="40" cols="90" readonly></textarea>
+
+                    <div id="Controls">
+                        <button id="AskQuestion" class="Hidden">Ask Question</button>
+
+                        <div id="confirmFlyout" data-win-control="WinJS.UI.Flyout" aria-label="{Confirm question flyout}">
+                            <div>Enter question</div>
+                            <input id="question" type="text" />
+                            <button id="confirmButton">Submit</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="Rightpane">
+                    <div id="Display">
+
+                    </div>
+                <div id="Questions"></div>
+                    </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

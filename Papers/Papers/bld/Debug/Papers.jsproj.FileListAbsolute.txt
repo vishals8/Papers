@@ -1,0 +1,15 @@
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bin\Debug\ReverseMap\resources.pri
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bin\Debug\AppxManifest.xml
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bin\Debug\Papers.build.appxrecipe
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\priconfig.xml
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\priconfig.xml.intermediate
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\layout.resfiles
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\layout.resfiles.intermediate
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\resources.resfiles
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\resources.resfiles.intermediate
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\pri.resfiles
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\pri.resfiles.intermediate
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\qualifiers.txt
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\qualifiers.txt.intermediate
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\v!shal\documents\visual studio 2013\Projects\Papers\Papers\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHAL</Machine>
+    <WindowsUser>V!shal</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>44e91450-8799-4e7e-8c2b-7bdf5ad53053</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2025984AA2C4CC2EC2A936C3EC7AAAF7B271B5AE759FD7E41A7BF50AF74C9C60</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>44e91450-8799-4e7e-8c2b-7bdf5ad53053_1.0.0.0_neutral__hjkj4wte6gxfr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>44e91450-8799-4e7e-8c2b-7bdf5ad53053_hjkj4wte6gxfr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>44e91450-8799-4e7e-8c2b-7bdf5ad53053</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=V!shal</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T20:48:26.154</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-01-31T04:59:54.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2015-01-31T21:45:57.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\pages\paper\paper.css">
+      <PackagePath>pages\paper\paper.css</PackagePath>
+      <Modified>2015-01-31T22:19:02.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T20:41:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\images\logo.scale-140.png">
+      <PackagePath>images\logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T20:41:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\images\logo.scale-180.png">
+      <PackagePath>images\logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T20:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\images\logo.scale-80.png">
+      <PackagePath>images\logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T20:41:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T20:49:45.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T22:47:10.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T20:44:16.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\images\storelogo.scale-140.png">
+      <PackagePath>images\storelogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T20:45:51.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\images\storelogo.scale-180.png">
+      <PackagePath>images\storelogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T20:46:55.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-01-31T04:59:56.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\js\jquery-2.1.3.min.js">
+      <PackagePath>js\jquery-2.1.3.min.js</PackagePath>
+      <Modified>2015-01-31T08:54:26.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2015-01-31T04:59:54.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\js\request.js">
+      <PackagePath>js\request.js</PackagePath>
+      <Modified>2015-01-31T09:10:34.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2015-01-31T21:43:08.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\pages\paper\paper.js">
+      <PackagePath>pages\paper\paper.js</PackagePath>
+      <Modified>2015-01-31T22:18:17.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2015-01-31T22:49:25.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-01-31T22:48:52.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\pages\paper\paper.html">
+      <PackagePath>pages\paper\paper.html</PackagePath>
+      <Modified>2015-01-31T21:40:53.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!shal\Documents\Visual Studio 2013\Projects\Papers\Papers\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-31T20:48:25.920</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+c:\users\v!shal\documents\visual studio 2013\Projects\PapersService\PapersService\bin\PapersService.dll.config
+c:\users\v!shal\documents\visual studio 2013\Projects\PapersService\PapersService\bin\PapersService.dll
+c:\users\v!shal\documents\visual studio 2013\Projects\PapersService\PapersService\bin\PapersService.pdb
+c:\users\v!shal\documents\visual studio 2013\Projects\PapersService\PapersService\obj\Debug\PapersService.csprojResolveAssemblyReference.cache
+c:\users\v!shal\documents\visual studio 2013\Projects\PapersService\PapersService\obj\Debug\PapersService.dll
+c:\users\v!shal\documents\visual studio 2013\Projects\PapersService\PapersService\obj\Debug\PapersService.pdb
+C:\Users\V!shal\documents\visual studio 2013\Projects\PapersService\PapersService\bin\Newtonsoft.Json.dll

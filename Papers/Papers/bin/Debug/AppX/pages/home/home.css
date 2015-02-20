@@ -1,0 +1,12 @@
+﻿.homepage section[role=main] {
+    margin: auto 120px;
+}
+.Hidden{
+    display:none;
+}
+.pList{
+    font-weight:700;
+    font-size:20px;
+    margin-top:20px;
+    color:white;
+}
