@@ -17,3 +17,22 @@ Any other user can provide the requried answer based on their understanding leve
 ### Future plans
 1. Search the paper from the web instead of a local repository
 2. Include user authentication
+3. 
+
+
+### Screenshots:
+Search page
+
+![](https://github.com/vishals8/Papers/blob/master/sample_images/Search%20page.png)
+
+Search result
+
+![](https://github.com/vishals8/Papers/blob/master/sample_images/result.png)
+
+Ask a question
+
+![](https://github.com/vishals8/Papers/blob/master/sample_images/Ask.png)
+
+Reply to a question
+
+![](https://github.com/vishals8/Papers/blob/master/sample_images/Replying.png)
