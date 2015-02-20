@@ -5,8 +5,8 @@ Papers is a Windows App.
   - The service for the app is coded in C#
   - The backend is created in MS SQL server
 
-Papers is created for collaborative understanding of any technical papaer present in its repository. The user can search for a paper based on a tag. Once loaded, they can highlight any part of the paper text and ask any associated question.
-Any other user can provide the requried answer based on their understanding level.
+Papers is created for collaborative understanding of any technical paper present in its repository. The user can enter tags and search for a paper. Once loaded, they can highlight any part of the paper text and ask an associated question.
+Any other user can provide the requried answer based on their understanding level. These answers can be further updated based on the improved understanding.
 
 ### Steps to run/update the app
 1. Start the PapersService
