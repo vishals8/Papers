@@ -17,7 +17,6 @@ Any other user can provide the requried answer based on their understanding leve
 ### Future plans
 1. Search the paper from the web instead of a local repository
 2. Include user authentication
-3. 
 
 
 ### Screenshots:
